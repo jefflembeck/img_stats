@@ -1,0 +1,6 @@
+[package]
+name = "img_stats"
+version = "0.1.0"
+authors = ["Jeffrey Lembeck <jlembeck@gmail.com>"]
+
+[dependencies]
